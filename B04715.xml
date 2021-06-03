@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Pleasant and excellent dialogue betwixt a learned divine and a beggar. Wherein it is holden furth, that [...] make a full resignation [...] selves, to the will and [...] of God, with all due re[...] and profound humility.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04715</idno><idno type="EEBO-CITATION">47012572</idno>
+  <idno type="VID">174539</idno>
+  <idno type="EEBO-PROQUEST">2240900937</idno>
+  
+            <idno type="STC">Wing P2531A</idno>
+            <idno type="STC">ESTC R181855</idno>
+            <idno type="OCLC">47012572</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B04715)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174539)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2691:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Pleasant and excellent dialogue betwixt a learned divine and a beggar. Wherein it is holden furth, that [...] make a full resignation [...] selves, to the will and [...] of God, with all due re[...] and profound humility.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and re-printed at Glasgow by Robert Sanders ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, with loss of text, including part of title.</note>
+                  <note>Reproduction of original in: University of Glasgow Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">God --  Will --  Early works to 1800.</term>
+               <term type="topical_term">Free will and determinism --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174539:1"/>
+            <pb facs="tcp:174539:1"/>
+            <p>A PLEASANT and EXCELLENT DIALOGUE Betwixt a Learned DIVINE And a BEGGAR.</p>
+            <p>Wherein it is holden furth, That <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>uld make a full Resignation <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Selves, to the Will and <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>e of God, with all due Re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>e and Profound Humility.</p>
+            <p>
+               <hi>London</hi> Printed, and Re-printed at <hi>Glasgow</hi> by <hi>Robert Sanders.</hi>
+            </p>
+            <p>One of His Majesties printers. Anno Dom. 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="2" facs="tcp:174539:2"/>
+            <head>A short Dialogue, betwixt a Learned DIVINE, and a BEGGAR.</head>
+            <p>A Certain Divine, who (if we may believe the Ancient Co<g ref="char:EOLhyphen"/>pies) was <hi>John Taulerus</hi> himself, who meeting with a Beggar, had this Discourse, Containing a most excel<g ref="char:EOLhyphen"/>lent Example of a perfect man; Whence we may be taught, how in all things we ought to be of the same mind, resigned to the will and appointment of God.</p>
+            <p>There was in time past <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in Famous Divine, who by <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of eight Years, had continu<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>portuned the Lord by pray<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ceiving he wanted the rig<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ledge of the Truth; Notwithstand<g ref="char:EOLhyphen"/>ing of all his Learning, and spent whole Nights therein, begging of GOD to let him know him, and to
+<pb n="3" facs="tcp:174539:2"/> let him know himself; And to shew him any Man, that might shew him the way of truth.</p>
+            <p>And when upon a time he was in<g ref="char:EOLhyphen"/>flamed with a most Vehement de<g ref="char:EOLhyphen"/>sire thereof, a Voice from Heaven, thus spake unto him. Go furth to the Church Doors, and there thou shall find a Man, that can teach thee the way of truth, and going furth, he found there a certain Beggar with Patcht and Torn Apparel, and filthy durty feet, all whose Apparel was scarce worth three half pence: to whom by way of Salutation, he thu<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> spake unto.</p>
+            <sp>
+               <speaker>Divine said,</speaker>
+               <p>God give thee a good Morning.</p>
+            </sp>
+            <sp>
+               <speaker>Beggar Ans:</speaker>
+               <p>I do not remember that ever I had an evil one.</p>
+            </sp>
+            <sp>
+               <speaker>Divine said,</speaker>
+               <p>
+                  <hi>God make thee For<g ref="char:EOLhyphen"/>tunate and prosperous, why doest thou speak in this manner?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:174539:3"/>
+               <speaker>Beggar Ans:</speaker>
+               <p>Neither was I ever Unfortunate or Unprosperous.</p>
+            </sp>
+            <sp>
+               <speaker>Divine said,</speaker>
+               <p>
+                  <hi>Be happie, what mean these words of thine?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Beggar Ans:</speaker>
+               <p>Nor was I ever un<g ref="char:EOLhyphen"/>happy.</p>
+            </sp>
+            <sp>
+               <speaker>Divine said,</speaker>
+               <p>
+                  <hi>God save thee, now at last speak more plainly.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Beggar Ans:</speaker>
+               <p>Truely I will do i<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> willingly, thou didst wish me a pros<g ref="char:EOLunhyphen"/>perous and good Morning, and I Answered, I never had an unpros<g ref="char:EOLunhyphen"/>perous or evil one; For when I am Pinched with Hunger, I praise God if I Suffer Cold; if it hail, if it Snow, if it Rain, if the weather B<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Fair or foul, I praise God, if I be wretch<g ref="char:EOLhyphen"/>ed and despised, I likewise praise God: Therefore there never happen<g ref="char:EOLunhyphen"/>ed any evil or sad Morning to me.</p>
+               <p>Thou didst likewise wish that might be Fortunate, and I answered that I had never been Unfortunate
+<pb n="5" facs="tcp:174539:3"/> because whatever God gave me, I suf<g ref="char:EOLhyphen"/>fered, or whatever otherwise happen<g ref="char:EOLhyphen"/>ed to me, were it sweet or bitter, whe<g ref="char:EOLhyphen"/>ther it were aggreeable or not, I gladly received it at his hand, as the best; And therefore I was never un<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ortunate. Thou saidst moreover <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hat God would be pleased to make me happie, whereunto <hi>I</hi> likewise ans<g ref="char:EOLhyphen"/>wered that I never had been unhap<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y: For I am fully resolved through His Grace, to adhere and only cleave <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>o the will of God, as the best, (as <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>bandoning mine own will,) into <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hich I have so wholly poured out mine own will, that whatever he <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ills, that I will also, and for this Cause, as I said, I was never unhap<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y, seeing that I will cleave to his <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ill only, and have wholly resigned <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ine own proper Will.</p>
+            </sp>
+            <sp>
+               <speaker>Divine said again,</speaker>
+               <p>
+                  <hi>This is very <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>range, but I pray thee wouldst
+<pb n="6" facs="tcp:174539:4"/> thou say, if the Lord of M<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>jest<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> would drown thee in the Botto<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>less Pit, couldst thou be contente<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> with His Will.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Begger A<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s:</hi>
+               </speaker>
+               <p>Drown me in the bo<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tomless Pit, why? Certainly if<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> should, I have two Arms, by whi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> I would still embrace him; A<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> clasp fast about him, one is, tr<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Humility, and that I lay under hi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and by him I am united to his mo<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Sacred Humanity. The other, A<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> that is the Right Arm, which is Lo<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and is united to his Divinity, and<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> h<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Love given to me by himself, hold him so fast, that he would forced to go down to Hell with m<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and it were much more to be wish<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> for by me, to be in hell with Go<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> then to be in Heaven without hi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> By this, that <hi>Divine</hi> learned, that t<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> most <hi>compendious</hi> way to God, i<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> true Resignation with profou<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Humility.</hi>
+               </p>
+               <pb n="7" facs="tcp:174539:4"/>
+               <p>Hereupon, the Divine spake a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ain to the Beggar, and asked him, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ood Lord! whence comest thou.</p>
+            </sp>
+            <sp>
+               <speaker>Beggar Ans.</speaker>
+               <p>From God.</p>
+            </sp>
+            <sp>
+               <speaker>D. said,</speaker>
+               <p>
+                  <hi>Where foundest thou God?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Beggar Ans.</speaker>
+               <p>Even there where <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> left all the Creatures.</p>
+            </sp>
+            <sp>
+               <speaker>Divine said,</speaker>
+               <p>
+                  <hi>But where didst thou <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>eave them?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Beggar Ans.</speaker>
+               <p>In humble and clean <hi>Hearts,</hi> &amp; in Men of Good will, which <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> his Temple and dwelling-Place.</p>
+            </sp>
+            <sp>
+               <speaker>Divine said,</speaker>
+               <p>
+                  <hi>I pray thee Friend who art thou?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Beggar Ans.</speaker>
+               <p>Truely I am a King, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd Jesus himself hath Crowned me <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ith Peace, Power and Rest.</p>
+            </sp>
+            <sp>
+               <speaker>Divine said,</speaker>
+               <p>
+                  <hi>Art thou a King, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ut where is thy Kingdom.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Beggar Ans.</speaker>
+               <p>The Kingdom of Heaven is within me, in my Soul, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd I can now, and do by his Power <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>n me, so govern and command my
+<pb n="8" facs="tcp:174539:5"/> inward and outward senses that al<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the affections, and powers of the ol<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Man are conquered, and are in Sub<g ref="char:EOLunhyphen"/>jection to the Newman in me: whic<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Kingdom no man can doubt, but i<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> better than all the Kingdoms, Scepter<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Crowns, and Glories of this World</p>
+            </sp>
+            <sp>
+               <speaker>Divine said again,</speaker>
+               <p>Lord! Wha<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> brought thee to this Perfection.</p>
+            </sp>
+            <sp>
+               <speaker>Beggar Ans.</speaker>
+               <p>My silence, and sub<g ref="char:EOLunhyphen"/>lime Meditation, And above all, my Union with the everlasting GO<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of Peace and Rest, which is my Kingdom; And to say the Truth I could rest in nothing, which wa<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> less than GOD. And now having found my God, I have forsaken th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> unquiet World, and in him I hav<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> found Everlasting Peace and rest.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:174539:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
